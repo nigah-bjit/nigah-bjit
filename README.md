@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [Automation projects]  
   
 
-- 🌱 I’m currently learning more of SQA  
+- 🌱 I’m currently learning more of **Software Quality Assurance**  
   
 
-- ❓ Ask me about anything related to SQA and related technologies  
+- ❓ Ask me about **Postman, Jmeter, Selenium, anything related to SQA and related technologies**  
   
 
 <br/>  
